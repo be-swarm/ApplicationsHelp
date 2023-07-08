@@ -11,14 +11,14 @@ const config = {
     
   tagline: 'Toutes les ressources pour bien comprende et utiliser la plateforme BeSwarm',
     url: 'https://github.com/',
-    baseUrl: '/Dev/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'be-swarm', // Usually your GitHub org/user name.
-    projectName: 'Dev', // Usually your repo name.
+    projectName: 'ApplicationsHelp', // Usually your repo name.
     deploymentBranch: "gh-pages",
  
 
