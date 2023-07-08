@@ -11,7 +11,7 @@ const config = {
     
   tagline: 'Toutes les ressources pour bien comprende et utiliser la plateforme BeSwarm',
     url: 'https://github.com/',
-    baseUrl: '/',
+    baseUrl: '/ApplicationsHelp/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
